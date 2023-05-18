@@ -1,0 +1,98 @@
+.wrapper{
+  margin-left: 215px;
+}
+
+.header{
+  max-width: 1385px;
+  max-height: 1066px;
+  height: 100%;
+  width: 100%;
+  border: 3px pink solid;
+  display: flex;
+}
+
+
+
+.MenuBar{
+  border: 3px orange solid;
+  max-width: 1170px;
+  max-height: 59px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+
+}
+
+.NavBar{
+  border: 3px green solid;
+  max-width: 352px;
+  max-height: 38px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  list-style: none;
+
+}
+
+.LogoPic{
+  max-width: 48px;
+  max-height: 48px;
+  width: 100%;
+  height: 100%;
+  border: red 3px solid;
+  margin-right: 123px;
+}
+
+
+
+.T-Contact{
+  max-height: 38px;
+  max-width: 78px;
+  width: 100%;
+  height: 100%;
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 160%;
+  color: #837171;
+  margin-right: 60px;
+}
+
+.T-Home{
+  max-height: 38px;
+  max-width: 61px;
+  width: 100%;
+  height: 100%;
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 160%;
+  color: #3A1212;
+  margin-right: 60px;
+}
+
+.T-Training{
+  max-height: 38px;
+  max-width: 87px;
+  width: 100%;
+  height: 100%;
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 160%;
+  color: #837171;
+  margin-right: 60px;
+}
+
+.Menu {
+  margin-left: 612px;
+  max-width: 34.07px;
+  max-height: 34.07px;
+  width: 100%;
+  width: 100%;
+  left: 15%;
+  right: 15%;
+}
